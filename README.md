@@ -61,3 +61,11 @@ R-squared scores:
 - -0.13481523
 - 0.24500238
 - -0.31825866
+
+Mean R-squared score: 1.0204
+
+Standard Deviation of R-squared: 2.1006
+
+
+
+![output](https://github.com/AyushPandey-123/USA_HOUSE_PRICE_PREDICTION/assets/62803094/db13550b-5a13-48c3-af94-e35e0e7e4487)
