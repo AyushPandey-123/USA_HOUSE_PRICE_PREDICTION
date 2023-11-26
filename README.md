@@ -24,6 +24,8 @@ Data Exploration and Analysis:
 
 * Jupyter Notebooks
 
+* Model Used - RidgeCV
+
 The collected data encompasses various economic indicators and housing-related metrics. Key data points include:
 
 * Target Variable: S&P/Case-Shiller U.S. National Home Price Index
@@ -46,4 +48,5 @@ The collected data encompasses various economic indicators and housing-related m
 * Personal Saving Rate
 * Unemployment Rate
 
-* Model Used - RidgeCV
+* Features According to their importance
+  ![image](https://github.com/AyushPandey-123/USA_HOUSE_PRICE_PREDICTION/assets/62803094/521d14db-3716-4f69-98d1-9f00d6398a63)
