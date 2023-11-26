@@ -66,6 +66,8 @@ Mean R-squared score: 1.0204
 
 Standard Deviation of R-squared: 2.1006
 
-
+Predicted Output:
 
 ![output](https://github.com/AyushPandey-123/USA_HOUSE_PRICE_PREDICTION/assets/62803094/db13550b-5a13-48c3-af94-e35e0e7e4487)
+
+* Sources: https://fred.stlouisfed.org/
