@@ -24,8 +24,6 @@ Data Exploration and Analysis:
 
 * Jupyter Notebooks
 
-* Model Used - RidgeCV
-
 The collected data encompasses various economic indicators and housing-related metrics. Key data points include:
 
 * Target Variable: S&P/Case-Shiller U.S. National Home Price Index
@@ -49,4 +47,17 @@ The collected data encompasses various economic indicators and housing-related m
 * Unemployment Rate
 
 * Features According to their importance
+
+  
   ![image](https://github.com/AyushPandey-123/USA_HOUSE_PRICE_PREDICTION/assets/62803094/521d14db-3716-4f69-98d1-9f00d6398a63)
+
+* Model Selection
+In this project, we opted for the Ridge regression model due to indications of substantial collinearity in the dataset. The Ridge regression model is recognized for its capacity to
+address collinearity through the application of L2 regularization, promoting stability in feature coefficients.
+
+R-squared scores:
+- 5.20356878
+- 0.10655593
+- -0.13481523
+- 0.24500238
+- -0.31825866
